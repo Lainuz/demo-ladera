@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+body {
+    font-family: Candara, sans-serif;
+    font-size: 10.5pt;
+}
+
+.logo {
+
+    background-color: #A87E5A;
+}
+
+th,
+td {
+    width: 50%;
+    text-align: left;
+}
+
+ul {
+    width: 100%;
+    padding: 0.5rem 1.5rem;
+    font-size: 9.5pt;
+}
+
+li {
+    padding: 0.2rem 0.5rem;
+}
+
+footer {
+    background-color: #A87E5A;
+    width: 99.9%;
+    height: 4rem;
+}
+
+.contenedor {
+    margin: 0.5rem;
+    width: 601px;
+    height: auto;
+    border: #A87E5A solid 2px;
+}
+
+.bloke {
+    padding: 2rem 2rem 0 2rem;
+}
+
+.cabecera {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    color: white;
+    background-color: #A87E5A;
+    font-size: 12pt;
+}
+
+.resumen {
+    background-color: #A87E5A33;
+    padding: 0.5rem 2rem 1rem 2rem;
+}
+
+.informacion {
+    margin-top: 1rem;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.informacion td {
+    padding: 0.5rem 0.5rem;
+    border: #060e3d solid 0.2px;
+}
+
+.estadia {
+    margin: 1.8rem 0.5rem;
+}
+
+#total {
+    padding: 1.5rem 0rem;
+}
+
+#contacto {
+    font-weight: bold;
+    padding: 1.5rem 0rem;
+}
